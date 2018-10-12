@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Omsairam</string>
+
+    <array name = "genres">
+        <item>Rock</item>
+        <item>sufi</item>
+        <item>pop</item>
+        <item>folk</item>
+    </array>
+</resources>
